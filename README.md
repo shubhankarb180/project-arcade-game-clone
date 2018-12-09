@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project Arcade Game Clone 
 
 # Instructions to play the game 
@@ -13,3 +14,6 @@ It is a simple Arcade of crossing the stream. We have a player and some bugs as 
 # Dependencies
 * SweetAlert
 * ES6
+=======
+# Project Classic Arcade Game Clone
+>>>>>>> 27cc39db027581876ed92b48828fbeeae5cbd565
