@@ -1,9 +1,12 @@
 
 # Project Arcade Game Clone 
 
+It is a simple Arcade of crossing the stream. We have a player and some bugs as some enemies. Enemies are present to stop you from reaching the target successfully and once you are but you will be back to your initial position. The game is to be playes with a keyboard.
+
+
 # Instructions to play the game 
 
-It is a simple Arcade of crossing the stream. We have a player and some bugs as some enemies. Enemies are present to stop you from reaching the target successfully and once you are but you will be back to your initial position. The game is to be playes with a keyboard.
+Try the Game Once - https://shubhankarb180.github.io/project-arcade-game-clone/
 
 * The player can move left, right, up and down
 * The enemies move at varying speeds on the paved block portion of the game board
